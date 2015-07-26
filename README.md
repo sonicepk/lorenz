@@ -6,12 +6,12 @@ This is an experiment I did a while back, figured I would open source it.
 
 ![Lorenz](http://i.imgur.com/21kWo.png)
 
-## Building (OSX)
+## Building (OSX), Windows, Ubuntu. 
 
 1. Run `make`
 2. Run `./lorenz`
 
-The `lorenz` binary has been prebuilt on OSX.
+This `lorenz` binary has been prebuilt on Ubuntu 14.4.
 
 ## Using
 
